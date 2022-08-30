@@ -90,3 +90,9 @@ C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.xml
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.dll
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\FluentValidation.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\FluentValidation.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Threading.Tasks.Extensions.xml
