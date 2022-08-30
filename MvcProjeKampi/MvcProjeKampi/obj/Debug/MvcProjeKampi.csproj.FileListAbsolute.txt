@@ -77,3 +77,16 @@ C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcPr
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.csproj.CopyComplete
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.dll
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\obj\Debug\MvcProjeKampi.pdb
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.pdb
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\BusinessLayer.dll.config
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.pdb
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\DataAccessLayer.dll.config
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.pdb
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityLayer.dll.config
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\EntityFramework.SqlServer.xml
