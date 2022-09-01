@@ -18,3 +18,6 @@ C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\Dat
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
