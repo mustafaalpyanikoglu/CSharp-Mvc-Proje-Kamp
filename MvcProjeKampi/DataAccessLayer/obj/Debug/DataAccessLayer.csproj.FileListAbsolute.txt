@@ -23,3 +23,5 @@ C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\Dat
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message_class.resources
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.nessage_update.resources
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contact_adddate.resources
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources

@@ -54,17 +54,17 @@
                             <!-- /.card-header -->
                             <div class="card-body">
                                 <div class="form-group">
-                                    @Html.Label("Alıcı:")
+                                    @Html.Label("Alıcı Adı")
                                     @Html.TextBoxFor(m => m.ReceiverMail, new { @class = "form-control" })
                                     @Html.ValidationMessageFor(m => m.ReceiverMail, "", new { @class = "text-danger" })
                                 </div>
                                 <div class="form-group">
-                                    @Html.Label("Konu:")
+                                    @Html.Label("Konu")
                                     @Html.TextBoxFor(m => m.Subject, new { @class = "form-control" })
                                     @Html.ValidationMessageFor(m => m.Subject, "", new { @class = "text-danger" })
                                 </div>
                                 <div class="form-group">
-                                    @Html.Label("Mesaj:")
+                                    @Html.Label("Mesaj")
                                     @Html.TextAreaFor(m => m.MessageContent, new { @class = "form-control", id = "compose-textarea" })
                                     @Html.ValidationMessageFor(m => m.MessageContent, "", new { @class = "text-danger" })
                                 </div>

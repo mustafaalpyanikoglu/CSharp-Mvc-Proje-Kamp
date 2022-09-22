@@ -33,6 +33,12 @@ namespace MvcProjeKampi.Controllers
             return View(result);
         }
 
+        public ActionResult GetSendBoxMessageDetails(int id)
+        {
+            var result = _messageManager.GetById(id);
+            return View(result);
+        }
+
         [HttpGet]
         public ActionResult NewMessage()
         {
@@ -51,7 +57,7 @@ namespace MvcProjeKampi.Controllers
                     message.IsDraft = false;
                     message.MessageDate = DateTime.Parse(DateTime.Now.ToShortDateString());
                     _messageManager.Add(message);
-                    return RedirectToAction("Sendbox");
+                    return RedirectToAction("SendBox");
                 }
                 else
                 {
@@ -61,7 +67,6 @@ namespace MvcProjeKampi.Controllers
                     }
                 }
             }
-
             else if (button == "draft")
             {
                 if (true)
