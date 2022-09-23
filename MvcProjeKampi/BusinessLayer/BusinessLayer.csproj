@@ -107,6 +107,7 @@
     <Compile Include="Abstract\IImageFileService.cs" />
     <Compile Include="Abstract\IMessageService.cs" />
     <Compile Include="Abstract\IRoleService.cs" />
+    <Compile Include="Abstract\ITalentService.cs" />
     <Compile Include="Abstract\IWriterService.cs" />
     <Compile Include="Concrete\AboutManager.cs" />
     <Compile Include="Concrete\AdminManager.cs" />
@@ -116,6 +117,7 @@
     <Compile Include="Concrete\ContentManager.cs" />
     <Compile Include="Concrete\HeadingManager.cs" />
     <Compile Include="Concrete\ImageFileManager.cs" />
+    <Compile Include="Concrete\ITalentManager.cs" />
     <Compile Include="Concrete\RoleManager.cs" />
     <Compile Include="Concrete\MessageManager.cs" />
     <Compile Include="Concrete\WriterManager.cs" />
