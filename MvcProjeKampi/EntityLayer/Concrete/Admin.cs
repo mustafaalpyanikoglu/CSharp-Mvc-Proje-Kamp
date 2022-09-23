@@ -13,10 +13,11 @@ namespace EntityLayer.Concrete
         public int AdminId { get; set; }
         [StringLength(50)]
         public string AdminUserName { get; set; }
-        [StringLength(50)]
-        public string AdminPassword { get; set; }
-        [StringLength(15)]
-        public string AdminRole { get; set; }
+        public bool AdminStatus { get; set; }
+        public byte[] PasswordHash { get; set; }
+        public byte[] PasswordSalt { get; set; }
+        public int? RoleId { get; set; }
+        public virtual Role Role { get; set; }
 
     }
 }

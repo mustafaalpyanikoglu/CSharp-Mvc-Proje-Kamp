@@ -33,6 +33,11 @@ namespace BusinessLayer.Concrete
             return _writerDal.GetAll();
         }
 
+        public Writer GetByEmail(string email)
+        {
+            return _writerDal.Get(w => w.WriterMail == email);
+        }
+
         public Writer GetById(int id)
         {
             return _writerDal.Get(w => w.WriterId == id);

@@ -59,7 +59,10 @@
     <Compile Include="Concrete\Heading.cs" />
     <Compile Include="Concrete\ImageFile.cs" />
     <Compile Include="Concrete\Message.cs" />
+    <Compile Include="Concrete\Role.cs" />
     <Compile Include="Concrete\Writer.cs" />
+    <Compile Include="Dto\WriterLoginDto.cs" />
+    <Compile Include="Dto\LoginDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

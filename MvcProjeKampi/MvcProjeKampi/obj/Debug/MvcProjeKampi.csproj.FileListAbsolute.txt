@@ -96,3 +96,15 @@ C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Thre
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\FluentValidation.xml
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Memory.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Buffers.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Numerics.Vectors.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Memory.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Buffers.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\System.Numerics.Vectors.xml
+C:\Users\Alp\Desktop\Mvc-Proje-Kamp-\MvcProjeKampi\MvcProjeKampi\bin\Microsoft.IdentityModel.Abstractions.xml
