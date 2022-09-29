@@ -8,7 +8,7 @@ using System.Web.Mvc;
 
 namespace MvcProjeKampi.Controllers
 {
-    public class ChartControllerController : Controller
+    public class ChartController: Controller
     {
         // GET: ChartController
         public ActionResult Index()
