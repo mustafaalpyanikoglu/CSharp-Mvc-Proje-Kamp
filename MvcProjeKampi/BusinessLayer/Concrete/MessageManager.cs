@@ -30,17 +30,17 @@ namespace BusinessLayer.Concrete
 
         public List<Message> GetAllInBox()
         {
-            return _messageDal.GetAll(m=>m.ReceiverMail =="admin@gmail.com");
+            return _messageDal.GetAll(m=>m.ReceiverMail == "aliyildiz@gmail.com");
         }
 
         public List<Message> GetAllRead()
         {
-            return _messageDal.GetAll(m => m.ReceiverMail == "admin@gail.com").Where(m => m.IsRead == false).ToList();
+            return _messageDal.GetAll(m => m.ReceiverMail == "aliyildiz@gmail.com").Where(m => m.IsRead == false).ToList();
         }
 
         public List<Message> GetAllSendBox()
         {
-            return _messageDal.GetAll(m => m.SenderMail == "admin@gmail.com");
+            return _messageDal.GetAll(m => m.SenderMail == "aliyildiz@gmail.com");
         }
 
         public Message GetById(int id)

@@ -33,6 +33,11 @@ namespace BusinessLayer.Concrete
             return _headingDal.GetAll();
         }
 
+        public List<Heading> GetAllByWriter()
+        {
+            return _headingDal.GetAll(x => x.WriterId == 4);
+        }
+
         public Heading GetById(int id)
         {
             return _headingDal.Get(h => h.HeadingId == id);
